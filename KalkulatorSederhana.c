@@ -1,8 +1,4 @@
-/*
-Simple Calculator V 2.0
-By Sulthan Daffa Arif Mahmudi
-https://github.com/DaffaDaff
-*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -826,5 +822,3 @@ const char * removeZeroInfront(char nStr[], int *len)
 }
 
 #pragma endregion Custom Functions
-
-//2021 - Sulthan Daffa Arif Mahmudi
